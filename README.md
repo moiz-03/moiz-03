@@ -1,88 +1,41 @@
 # Hi, I'm Moiz Imran 👋
 
-### Computer Science Student | Web Developer | Aspiring Full-Stack Developer
+**Computer Science Student | Cross-Platform Mobile & Web Developer**
 
-I'm a **6th-semester BSCS student at the University of Central Punjab** with a strong interest in **web development and software engineering**.
+I am a Computer Science student at the University of Central Punjab passionate about creating responsive web applications and cross-platform mobile apps. I focus on building functional software using Flutter, Firebase, and modern web tech.
 
-I enjoy building web projects, solving programming problems, and learning new technologies. I'm currently **learning the MERN stack** and working toward becoming a full-stack web developer.
+---
 
-## 🚀 Currently Learning
+### 🛠️ Tech Stack & Skills
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* Full-stack web development
+- **Mobile Development:** Flutter, Dart, Firebase (Auth, Firestore)
+- **Web Development:** HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB
+- **Languages:** Dart, JavaScript, C++, Python, C, C#
+- **Core CS Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), DBMS, REST APIs
 
-## 🛠️ Technologies & Skills
+---
 
-**Languages**
+### 🚀 Featured Projects
 
-* Python
-* C++
-* C
-* C#
-* JavaScript
+#### 📱 Pixel Quest (Mobile App)
+- **Overview:** A pixel-themed habit-tracking mobile application built with Flutter.
+- **Tech Stack:** Flutter, Dart, Firebase
+- **Repository:** [moiz-03/pixel-quest](https://github.com/moiz-03/pixel-quest)
 
-**Web Development**
+#### 🤖 Smart AI Disease Prediction System
+- **Overview:** Machine learning web application predicting potential diseases based on symptom inputs.
+- **Tech Stack:** Python, Streamlit, Scikit-learn, Pandas, NumPy
+- **Repository:** [moiz-03/smart-ai-disease-prediction](https://github.com/moiz-03/smart-ai-disease-prediction)
 
-* HTML5
-* CSS3
-* JavaScript
+#### 🌐 Pixel Quest Landing Page
+- **Overview:** Responsive web platform supporting the Pixel Quest application.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Repository:** [moiz-03/pixel-quest-website](https://github.com/moiz-03/pixel-quest-website)
 
-**Database**
+---
 
-* MySQL
+### 📬 Connect With Me
 
-**Core Concepts**
-
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* DBMS
-
-**AI / Machine Learning**
-
-* Scikit-learn
-* Pandas
-* NumPy
-* Streamlit
-
-## 📌 Featured Projects
-
-### 🩺 Smart AI Disease Prediction System
-
-A machine-learning web application that predicts possible diseases from selected symptoms.
-
-**Technologies:** Python, Streamlit, Scikit-learn, Pandas, NumPy
-
-[View Project](https://github.com/moiz-03/smart-ai-disease-prediction)
-
-### 🌐 Responsive Business Landing Page
-
-A modern responsive landing page designed for a web-development service.
-
-**Technologies:** HTML, CSS, JavaScript
-
-[Live Demo](https://landing-page-two-nu-89.vercel.app/)
-
-[View Repository](https://github.com/moiz-03/landing-page)
-
-### 👤 Profile Card & Portfolio
-
-A responsive personal portfolio interface showcasing skills, projects, and contact information.
-
-**Technologies:** HTML, CSS, JavaScript
-
-[Live Demo](https://profile-card-yteq.vercel.app/)
-
-[View Repository](https://github.com/moiz-03/profile-card)
-
-## 🎯 Career Goal
-
-I'm looking for opportunities where I can **learn from experienced developers, contribute to real-world projects, and grow as a software/web developer**, particularly in the MERN stack.
-
-## 📫 Connect With Me
-
-* **LinkedIn:** https://linkedin.com/in/moiz-imran-b94207367
-* **GitHub:** https://github.com/moiz-03
-* **Email:** [code.moiz2003@gmail.com](mailto:code.moiz2003@gmail.com)
+- **LinkedIn:** [Moiz Imran](https://linkedin.com/in/moiz-imran-b94207367)
+- **Email:** code.moiz2003@gmail.com
+- **Portfolio:** [profile-card-yteq.vercel.app](https://profile-card-yteq.vercel.app/)
